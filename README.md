@@ -16,5 +16,5 @@
 
 백엔드 업무를 맡았고, MLOps, Data engineering, System design에 관심을 갖고있습니다.
 
-<a href="링크"><img src="https://img.shields.io/badge/이력서-FF7F50?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://speckle-bone-ca3.notion.site/Sung-Ki-Hwan-c5c61d7d3b1d4a72a2a3bda02d3b8a2f"><img src="https://img.shields.io/badge/이력서-FF7F50?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
