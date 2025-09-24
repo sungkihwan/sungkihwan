@@ -29,11 +29,10 @@
 
 ---
 
-### 2. WebRTC & Socket.io 기반 실시간 서비스
-- 화상·실시간 통신 서비스 서버 개발  
-- Redis Lua Script 기반 분산락, 대기열 시스템, API Rate Limit 구축  
-- 안정적인 **수천 동시 접속 처리** 및 낮은 지연 시간 확보  
-- **기술**: NestJS, Socket.io, WebRTC, Redis, AWS EKS
+### 2. Socket.io & Redis 기반 실시간 서비스
+- 실시간 챗 서비스 서버 개발
+- 안정적인 **수만 동시 접속 처리** 및 낮은 지연 시간 확보
+- **기술**: NestJS, Socket.io, Redis, AWS EKS
 
 ---
 
@@ -41,7 +40,7 @@
 - 홈택스, 근로복지공단, 카드사, 은행 데이터를 자동 수집·분석  
 - 종합소득세 신고, 환급 계산, 세무 리포트 서비스 구현  
 - 복잡한 세무 로직을 **TypeORM + 파티셔닝 DB 설계**로 안정화  
-- Redis 대기열, 스케줄러, 분산 환경으로 **대규모 사용자 요청 처리**  
+- Redis Lua Script 기반 분산락, 대기열 시스템, API Rate Limit 구축 
 - **기술**: NestJS, NextJS, MySQL(Aurora), Redis, AWS (EKS, Lambda, RDS)
 
 ---
