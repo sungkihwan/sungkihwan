@@ -1,20 +1,59 @@
-<div align=center>
+# 👋 성기환 | Backend & Infra Engineer
 
-안녕하세요.
+8년차 소프트웨어 엔지니어로서 **세무·금융 도메인, 고가용 인프라, 클라우드 비용 최적화, 이벤트 기반 아키텍처**에 특화된 경험을 보유하고 있습니다.  
+AWS 기반 대규모 트래픽 서비스와 WebRTC/Socket.io를 활용한 실시간 통신 서비스 구축 경험이 있으며, **비용 절감·성능 최적화·안정성 확보**에 강점을 갖추고 있습니다.  
 
+---
 
-데이터 중심의 시스템을 구축하는 개발자 성기환입니다.
+## 🚀 핵심 기술 스택
+- **Backend**: NestJS, TypeScript, TypeORM, Java, Spring Boot, Kotlin, Express.js  
+- **실시간 통신**: WebRTC, Socket.io, Kafka, Flink  
+- **Database**: MySQL(Aurora), PostgreSQL, MongoDB(DocumentDB), Redis  
+- **Infra & Cloud**: AWS (EKS/ECS, Lambda, S3, RDS, DynamoDB), Kubernetes, Docker, Helm, ArgoCD  
+- **CI/CD & DevOps**: GitHub Actions, Jenkins, GitOps, Terraform  
+- **기타**: WebRTC, gRPC, ElasticSearch  
 
+---
 
-데이터에 맞는 DB 선택 및 스키마 설계, 확장성을 고려한 시스템 아키텍처 설계, 24/7 운영할 수 있는 환경을 위해 고민합니다.
+## 🏆 주요 프로젝트
 
-유지보수가 좋은 클린 코드, 클린 아키텍처를 지향하며 팀원과의 코드리뷰를 통해서 꾸준히 발전합니다. 
+### 1. 클라우드 비용 최적화 (AWS EKS)
+- 월 $13,000 → $4,000 이하로 비용 절감
+- 미사용 리소스 정리, EKS 클러스터 통합, ELB → ALB 전환, EC2 → Lambda 이전
+- **기술**: AWS (EKS, EC2, Lambda, RI)
 
-기술적인 측면 뿐만 아니라 CS, 마케터, 기획자 디자이너 등을 위한 어드민 서비스를 개발하며 소통의 비효율을 최소화하려 노력합니다. 
+---
 
-이러한 기술은 사업에 알맞은 문제해결을 위해 초점을 맞춰야 한다고 생각하고, 항상 트레이드 오프가 있다는 점을 고려합니다.
+### 2. WebRTC & Socket.io 기반 서비스
+- 화상·실시간 통신 서비스 서버 개발
+- Redis Lua Script 기반 분산락, 대기열, API rate limit 구현
+- **기술**: NestJS, Socket.io, WebRTC, Redis, AWS EKS
 
-백엔드 업무를 맡았고, MLOps, Data engineering, System design에 관심을 갖고있습니다.
+---
 
-<a href="https://speckle-bone-ca3.notion.site/Sung-Ki-Hwan-c5c61d7d3b1d4a72a2a3bda02d3b8a2f"><img src="https://img.shields.io/badge/이력서-FF7F50?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
+### 3. RAG 기반 데이터 플랫폼 (병원/CS 데이터)
+- 내부 CS/병원 데이터 전처리 → 벡터화 후 RAG 검색 구조 설계
+- LangChain + OpenAI API 연동, 실시간 응답 최적화
+- **기술**: NestJS, PostgreSQL, AWS, LangChain, OpenAI API
+
+---
+
+### 4. Kafka & Flink 실시간 금융 데이터 처리
+- 일간 100만 건 이상 데이터 스트리밍 처리
+- Exactly-Once 성능 문제 → Redis 중복 제거로 최적화
+- **기술**: Kafka, Flink, Redis, Java, Python
+
+---
+
+## 📊 성과
+- **대규모 트래픽 안정화**: Kafka/Flink 기반 아키텍처로 초당 수천 건 스트림 안정 처리  
+- **클라우드 비용 절감**: 월간 비용 70% 이상 절감  
+- **세무/환급 서비스**: 홈택스/근로복지공단 스크래핑 + 대규모 데이터 처리 서비스 운영  
+- **CI/CD 자동화**: GitHub Actions + ArgoCD + Helm으로 무중단 배포 구축  
+
+---
+
+## 📎 링크
+- [GitHub](https://github.com/sungkihwan)  
+- [이력서 PDF](./성기환.pdf)  
+
