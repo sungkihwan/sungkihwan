@@ -73,5 +73,6 @@
 ---
 
 ## 📎 링크 
-- [📄 이력서 PDF 보기](https://sungkihwan.github.io/sungkihwan/sungkihwan.pdf)  
+- [📄 이력서 PDF 보기](https://sungkihwan.github.io/sungkihwan/sungkihwan.pdf)
+- [💻 GitHub](https://github.com/sungkihwan)
 
