@@ -55,5 +55,5 @@ AWS 기반 대규모 트래픽 서비스와 WebRTC/Socket.io를 활용한 실시
 
 ## 📎 링크
 - [GitHub](https://github.com/sungkihwan)  
-- [이력서 PDF](./성기환.pdf)  
+- [📄 이력서 PDF 보기](./성기환.pdf)
 
